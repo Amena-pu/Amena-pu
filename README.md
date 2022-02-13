@@ -1,16 +1,30 @@
-### Hi there 👋
+# **About Me**
 
-<!--
-**Amena-pu/Amena-pu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Amena Akter. Currently a 3rd year undergrad majoring in Computer Science and Engineering at Prime University.
 
-Here are some ideas to get you started:
+### **Interests**
+•	Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•	Problem Solving
+
+•	Frontend web development
+
+•	Machine Learning
+
+and so many random stuff like: Cyber Security, Geography etc
+
+### **Technology Stack**
+•General Purpose : C/C++, Java, Python
+
+•Front End : HTML, CSS
+
+•Operating System : Ubuntu, Windows, Kali
+
+### **Contact**
+<p>
+  <a href="https://www.linkedin.com/in/amena-akter-700b101a9/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+	
+	
+</p>
