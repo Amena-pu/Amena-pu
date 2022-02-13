@@ -26,8 +26,5 @@ and so many random stuff like: Cyber Security, Geography etc
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
 
-	<a href="https://www.beecrowd.com.br/judge/en/profile/426512" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="beecrowd"> Beecrowd
-  </a> &nbsp; 
-	https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036
+
 </p>
