@@ -1,6 +1,6 @@
 # **About Me**
 
-Hello, I'm Amena Akter. Currently a 3rd year undergrad majoring in Computer Science and Engineering at Prime University.
+Hello, I'm Amena Akter. Currently a 4th year undergrad majoring in Computer Science and Engineering at Prime University.
 
 ### **Interests**
 •	Algorithms
